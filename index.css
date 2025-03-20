@@ -74,3 +74,19 @@ tr{
 td{
     border: 2px solid aqua;
 }
+.profile{
+    background-color: white;
+    border: 2px solid black;
+}
+.avatar{
+    text-align: center;
+}
+.bio{
+    text-align: center;
+}
+.link{
+    text-align: center;
+}
+.row{
+    display: inline-block;
+}
