@@ -1,10 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Grechen+Fuemen&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 *{
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Raleway", sans-serif ;
+    font-weight: 200;
 }
 body{
     justify-content: center;
+    
+   
 }
 .first{
     background-color: black;
@@ -20,6 +24,46 @@ body{
 }
 .social:hover{
     background-color: aqua;
-    
-
+}
+.download{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 0.2rem;
+    margin: 1rem;
+}
+.contact{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 3px;
+    margin-top: 10px;
+}
+form{
+    display: block;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+.container{
+    text-align: right;
+}
+.info{
+    text-align: left;
+}
+.header > p{
+    color: black;
+    font-weight;
+}
+.h1{
+    font-weight: 300;
+}
+th{
+    background-color: #c223bc;
+    color: white;
+    border: none;
+}
+.records{
+    border: 2px solid black;
 }
