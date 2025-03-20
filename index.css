@@ -88,5 +88,5 @@ td{
     text-align: center;
 }
 .row{
-    display: inline-block;
+    display:block;
 }
