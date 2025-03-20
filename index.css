@@ -65,5 +65,12 @@ th{
     border: none;
 }
 .records{
-    border: 2px solid black;
+    border: 2px solid #979696;
+}
+tr{
+    background-color: #ffffff, #f1f1fd;
+    color: #3a3838;
+}
+td{
+    border: 2px solid aqua;
 }
