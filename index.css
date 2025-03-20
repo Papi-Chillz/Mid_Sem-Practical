@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    justify-content: center;
+}
+.first{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+.social{
+    background-color: white;
+    color: blue;
+    display: block;
+    cursor: pointer;
+}
+.social:hover{
+    background-color: aqua;
+    
+
+}
